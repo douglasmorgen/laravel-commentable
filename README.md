@@ -10,13 +10,13 @@
 Require this package, with [Composer](https://getcomposer.org/), in the root directory of your project.
 
 ``` bash
-$ composer require artisanry/commentable
+$ composer require douglasmorgen/laravel-commentable
 ```
 
 To get started, you'll need to publish the vendor assets and migrate:
 
 ```
-php artisan vendor:publish --provider="Artisanry\Commentable\CommentableServiceProvider" && php artisan migrate
+php artisan vendor:publish --provider="Douglasmorgen\Commentable\CommentableServiceProvider" && php artisan migrate
 ```
 
 ## Usage
