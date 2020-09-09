@@ -1,5 +1,5 @@
 {
-    "name": "artisanry/commentable",
+    "name": "douglasmorgen/laravel-commentable",
     "description": "Commentable Polymorphic Eloquent Models for for Laravel 5",
     "keywords": [
         "laravel",
@@ -15,8 +15,8 @@
     }],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "^5.8|^6.0",
-        "illuminate/database": "^5.8|^6.0",
+        "illuminate/support": "^5.8|^6.0|^7.0",
+        "illuminate/database": "^5.8|^6.0|^7.0",
         "kalnoy/nestedset": "^5.0"
     },
     "require-dev": {
